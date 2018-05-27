@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - RangeCalendar (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase (~> 2.1.4)
+  - RangeCalendar (from `../`)
+
+EXTERNAL SOURCES:
+  RangeCalendar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  RangeCalendar: d073c015c64ec0f87c352721a358ad23f28b629b
+
+PODFILE CHECKSUM: f61c009947770a34ecf103f19a9099fb1f08c344
+
+COCOAPODS: 1.4.0
