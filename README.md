@@ -1,6 +1,7 @@
 # RangeCalendar
 
 [![CI Status](https://img.shields.io/travis/marinofelipe/RangeCalendar.svg?style=flat)](https://travis-ci.org/marinofelipe/RangeCalendar)
+[![Coverage Status](https://coveralls.io/repos/github/marinofelipe/RangeCalendar/badge.svg?branch=master)](https://coveralls.io/github/marinofelipe/RangeCalendar?branch=master)
 [![Version](https://img.shields.io/cocoapods/v/RangeCalendar.svg?style=flat)](https://cocoapods.org/pods/RangeCalendar)
 [![License](https://img.shields.io/cocoapods/l/RangeCalendar.svg?style=flat)](https://cocoapods.org/pods/RangeCalendar)
 [![Platform](https://img.shields.io/cocoapods/p/RangeCalendar.svg?style=flat)](https://cocoapods.org/pods/RangeCalendar)
